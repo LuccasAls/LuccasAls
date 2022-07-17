@@ -1,5 +1,5 @@
 ## OLá, Eu sou Luccas!! 👋
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário das Faculdades Metropolitanas Unidas - FMU em São Paulo. Sou apaixonado pelas mais diversas tecnologias de desenvolvimento web 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU -  Centro Universitário das Faculdades Metropolitanas Unidas em São Paulo. Sou apaixonado pelas mais diversas tecnologias de desenvolvimento web 
 - 🔭 Desenvolvedor Web Front-End
 - 🌱 Estudando JavaScript, Html, CSS
 <div align="center">

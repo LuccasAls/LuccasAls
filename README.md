@@ -1,7 +1,7 @@
 ### OLá, Eu sou Luccas!! 👋
 Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU -  Centro Universitário das Faculdades Metropolitanas Unidas em São Paulo.
 
-
+### Meu Status GitHub
 <a href="https://github.com/luccasals">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=luccasals&show_icons=true&theme=dracula&count_private=true">
 </a>
@@ -10,6 +10,7 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
 </a>
  
 
+### Minhas especialidades
 - 🔭 Desenvolvedor Mobile
 - ⚒️ Typescript
 - 🌱 Front-end Mobile com React Native

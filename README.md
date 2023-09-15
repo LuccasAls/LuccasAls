@@ -32,7 +32,7 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
   
 
 
- ### Meus Contatos
+ ## Meus Contatos
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccasals/)](https://www.linkedin.com/in/luccasals/) 
 [![Gmail Badge](https://img.shields.io/badge/-luccasaslveswin.11@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccasalveswin.11@outlook.com)](mailto:luccasalveswin.11@outlook.com)

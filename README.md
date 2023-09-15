@@ -1,6 +1,14 @@
 ### OLá, Eu sou Luccas!! 👋
 Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU -  Centro Universitário das Faculdades Metropolitanas Unidas em São Paulo.
- <br> 
+
+
+<a href="https://github.com/luccasals">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula&count_private=true">
+</a>
+<a href="https://github.com/luccasals">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dracula&count_private=true">
+</a>
+ 
 
 - 🔭 Desenvolvedor Mobile
 - ⚒️ Typescript
@@ -8,7 +16,6 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
 - ⚙️ Firebase.
 - 📒 Estudando NodeJs
 
- <br> 
   
 ### Minhas Tecnologias
     
@@ -22,9 +29,7 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
   
 </div>
   
- <br> 
 
- ##
 
  ### Meus Contatos
 

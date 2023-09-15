@@ -9,14 +9,12 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
 - 📒 Estudando NodeJs
   
 ## Meu Status GitHub
-<div style="display: inline_block"><br>
   <a href="https://github.com/luccasals">
-    <img align="center"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=luccasals&show_icons=true&theme=dracula&count_private=true">
+    <img align="center"  height="180rem" src="https://github-readme-stats.vercel.app/api?username=luccasals&show_icons=true&theme=dracula&count_private=true">
   </a>
   <a href="https://github.com/luccasals">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasals&layout=compact&theme=dracula&count_private=true">
+    <img align="center" height="180rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasals&layout=compact&theme=dracula&count_private=true">
   </a>
-</div>
  
   
 ## Minhas Tecnologias

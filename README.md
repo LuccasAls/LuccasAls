@@ -7,7 +7,7 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
 - 🌱 Front-end Mobile com React Native
 - ⚙️ Firebase.
 - 📒 Estudando NodeJs
-- 
+  
 ## Meu Status GitHub
 <a href="https://github.com/luccasals">
   <img align="center" height="190rem" src="https://github-readme-stats.vercel.app/api?username=luccasals&show_icons=true&theme=dracula&count_private=true">

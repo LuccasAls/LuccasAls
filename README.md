@@ -23,8 +23,8 @@ Sou Desenvolvedor mobile, e atualmente estou cursando Análise e Desenvolvimento
  ##
 
  ### Meus Contatos
-<div> 
+
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccasals/)](https://www.linkedin.com/in/luccasals/) 
 [![Gmail Badge](https://img.shields.io/badge/-luccasaslveswin.11@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccasalveswin.11@outlook.com)](mailto:luccasalveswin.11@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sp.luccas/)](https://www.instagram.com/sp.luccas//)
- </div>
+ 

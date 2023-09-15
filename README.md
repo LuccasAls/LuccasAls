@@ -10,10 +10,10 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
   
 ## Meu Status GitHub
 <a href="https://github.com/luccasals">
-  <img align="center"  width="100%"  src="https://github-readme-stats.vercel.app/api?username=luccasals&show_icons=true&theme=dracula&count_private=true">
+  <img align="center"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=luccasals&show_icons=true&theme=dracula&count_private=true">
 </a>
 <a href="https://github.com/luccasals">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasals&layout=compact&theme=dracula&count_private=true">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasals&layout=compact&theme=dracula&count_private=true">
 </a>
  
   

@@ -1,5 +1,6 @@
 ### OLá, Eu sou Luccas!! 👋
 Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU -  Centro Universitário das Faculdades Metropolitanas Unidas em São Paulo.
+ <br> 
 
 - 🔭 Desenvolvedor Mobile
 - ⚒️ Typescript
@@ -7,7 +8,7 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
 - ⚙️ Firebase.
 - 📒 Estudando NodeJs
 
-  
+ <br> 
   
 ### Minhas Tecnologias
     
@@ -21,6 +22,7 @@ Sou Desenvolvedor mobile e apaixonado por Design UI /UX, e atualmente estou curs
   
 </div>
   
+ <br> 
 
  ##
 
